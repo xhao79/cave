@@ -1,4 +1,4 @@
-The README md in root folder
+The readme md in root folder
 
 ## Welcome to GitHub Pages
 
