@@ -1,4 +1,4 @@
-The Index md in root folder.
+The index md in root folder, not in _docs_ folder.
 
 ## Welcome to GitHub Pages
 
